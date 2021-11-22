@@ -1,0 +1,11 @@
+[class*="col-"] {
+    border:  solid 2 px blue;
+}
+
+.container {
+    border: solid 2px green;
+}
+
+.row {
+    border: sol id 2px yellow;
+}
