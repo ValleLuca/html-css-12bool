@@ -21,8 +21,8 @@
 
 /* justify content */
 
-.top {
-    justify-content: top;
+.start {
+    justify-content: flex-start;
 }
 
 .center {
@@ -33,6 +33,20 @@
 .end {
     justify-content: flex-end;
     text-align: end;
+}
+
+/* align content */
+
+.top {
+    align-content: flex-start;
+}
+
+.middle {
+    align-content: center;
+}
+
+.bottom {
+    align-content: flex-end;
 }
 
 /* col */
