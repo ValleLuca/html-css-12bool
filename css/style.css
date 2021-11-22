@@ -1,11 +1,13 @@
 [class*="col-"] {
-    border:  solid 2 px blue;
+    border: solid 2px white;
+    background-color:  blue;
+    height: 50px;
 }
 
 .container {
-    border: solid 2px green;
+    background-color: green;
 }
 
 .row {
-    border: sol id 2px yellow;
+    background-color: yellow;
 }

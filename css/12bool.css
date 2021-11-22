@@ -19,6 +19,22 @@
     flex-wrap: wrap;
 }
 
+/* justify content */
+
+.top {
+    justify-content: top;
+}
+
+.center {
+    justify-content: center;
+    text-align: center;
+}
+
+.end {
+    justify-content: flex-end;
+    text-align: end;
+}
+
 /* col */
 
 .col-1 {
