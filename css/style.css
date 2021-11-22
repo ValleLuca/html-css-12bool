@@ -1,7 +1,9 @@
 [class*="col-"] {
-    border: solid 2px white;
+    border: solid 1px white;
     background-color:  blue;
     height: 50px;
+    color: white;
+    text-align: center;
 }
 
 .container {
