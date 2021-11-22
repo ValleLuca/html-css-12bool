@@ -7,9 +7,23 @@
 }
 
 .container {
-    background-color: green;
+    background-color: white;
 }
 
 .row {
     background-color: yellow;
+}
+
+.cha_col {
+    background-color: lightgreen;
+    border: solid 1px blue;
+}
+
+.pd {
+    padding: 10px;
+    background-color: blue;
+}
+
+.mr {
+    margin-top: 20px;
 }
