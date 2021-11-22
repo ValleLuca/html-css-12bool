@@ -27,3 +27,16 @@
 .mr {
     margin: 40px auto;
 }
+
+.nb {
+    border: none;
+}
+
+.sa {
+    justify-content: space-around;
+}
+
+.sb {
+    justify-content: space-between;
+}
+
